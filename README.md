@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Blockchain related projects.**
 
-- You can visit my website at [xeri.dev](xeri.dev)
+- You can visit my website at [xeri.dev](https://www.xeri.dev/)
 
 - 💬 Ask me about **React, NextJS, Node**
 
